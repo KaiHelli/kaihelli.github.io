@@ -7,7 +7,7 @@ authors:
 - Noah Hollmann
 - Samuel Müller
 - Frank Hutter
-date: '2024-01-01'
+date: '2024-10-28'
 publishDate: '2024-10-28T19:27:43.401886Z'
 publication_types:
 - paper-conference
@@ -36,4 +36,5 @@ abstract: "While most ML models expect independent and identically distributed d
 links:
 - name: URL
   url: https://openreview.net/forum?id=p3tSEFMwpG
+  featured: true
 ---

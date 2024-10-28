@@ -6,7 +6,11 @@
 # Appearance
 appearance:
   mode: system
-  color: emerald
+  color: indigo
+  theme_day: minimal
+  theme_night: minimal
+  font: minimal
+  font_size: xl
 
 # SEO
 marketing:
@@ -31,8 +35,9 @@ header:
   navbar:
     enable: true
     blox: "navbar"
+    align: "center"
     fixed_to_top: true
-    show_search: true
+    show_search: false
     show_theme_chooser: true
     logo:
       text: "Kai Helli"
@@ -49,14 +54,11 @@ footer:
 
 # Localization
 locale:
-  date_format: 'Jan 2, 2006'
-  time_format: '3:04 PM'
+  date_format: 'Mon, 02 Jan 2006'
+  time_format: '15:04'
 
 # Site features
 features:
-  syntax_highlighter:
-    theme_light: github-light
-    theme_dark: dracula
   math:
     enable: true
   privacy_pack:

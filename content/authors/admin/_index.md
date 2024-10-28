@@ -24,7 +24,7 @@ role: M.Sc. CS Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: TU Munich
+  - name: Technical University of Munich
     url: https://www.tum.de/
 
 # Social network links
@@ -63,7 +63,7 @@ education:
   - area: B.Sc. in Computer Science
     institution: University of Freiburg
     date_start: 2020-10-01
-    date_end: 2023-09-31
+    date_end: 2023-09-30
     #button:
     #  text: 'Read Thesis'
     #  url: 'https://example.com'
@@ -72,4 +72,4 @@ education:
 highlight_name: true
 ---
 
-Will be added soon.
+Information about me will be added soon :)
