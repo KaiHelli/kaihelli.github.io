@@ -7,8 +7,8 @@ authors:
 - Noah Hollmann
 - Samuel Müller
 - Frank Hutter
-date: '2024-01-01'
-publishDate: '2024-10-28T19:27:43.409393Z'
+date: '2024-08-09'
+publishDate: '2024-08-09T19:27:43.409393Z'
 publication_types:
 - paper-conference
 publication: '*AutoML Conference 2024 (Workshop Track)*'
@@ -34,4 +34,5 @@ abstract: "While most ML models expect independent and identically distributed d
 links:
 - name: URL
   url: https://openreview.net/forum?id=VbmqcoHpGT
+  url_pdf: https://openreview.net/pdf?id=VbmqcoHpGT
 ---

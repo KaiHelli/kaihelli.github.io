@@ -7,8 +7,8 @@ authors:
 - Noah Hollmann
 - Samuel Müller
 - Frank Hutter
-date: '2024-01-01'
-publishDate: '2024-10-28T19:27:43.391666Z'
+date: '2024-10-10'
+publishDate: '2024-10-10T19:27:43.391666Z'
 publication_types:
 - paper-conference
 publication: '*NeurIPS 2024 Third Table Representation Learning Workshop*'
@@ -35,4 +35,5 @@ abstract: "While most ML models expect independent and identically distributed d
 links:
 - name: URL
   url: https://openreview.net/forum?id=ud5YBKY1vJ
+  url_pdf: https://openreview.net/pdf?id=ud5YBKY1vJ
 ---

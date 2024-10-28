@@ -10,6 +10,7 @@ design:
 
 sections:
   - block: resume-biography-3
+    id: about
     content:
       title: About
       # Choose a user profile to display (a folder name within `content/authors/`)
@@ -18,7 +19,7 @@ sections:
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download CV
-        url: static/uploads/resume.pdf
+        url: uploads/resume.pdf
     design:
       css_class: dark
       background:
@@ -35,10 +36,6 @@ sections:
     id: publications
     content:
       title: 📝 Publications
-      text: |-
-        {{% callout note %}}
-        Quickly discover relevant content by [filtering publications](./publication/).
-        {{% /callout %}}
       filters:
         folders:
           - publication
@@ -46,8 +43,4 @@ sections:
     design:
       columns: '2'
       view: citation
-      background:
-        gradient_end: '#9FA5D5'
-        gradient_start: '#E8F5C8'
-        text_color_light: false
 ---
