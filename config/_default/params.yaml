@@ -6,11 +6,7 @@
 # Appearance
 appearance:
   mode: system
-  color: indigo
-  theme_day: minimal
-  theme_night: minimal
-  font: minimal
-  font_size: xl
+  color: custom
 
 # SEO
 marketing:
@@ -34,7 +30,7 @@ marketing:
 header:
   navbar:
     enable: true
-    blox: "navbar"
+    blox: "my-navbar"
     align: "center"
     fixed_to_top: true
     show_search: false
