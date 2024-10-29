@@ -72,4 +72,6 @@ education:
 highlight_name: true
 ---
 
+# About
+
 Information about me will be added soon :)
