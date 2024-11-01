@@ -74,4 +74,10 @@ highlight_name: true
 
 # About
 
-Information about me will be added soon :)
+Welcome to my website! I’m Kai, currently pursuing a Master of Science in Informatics at the Technical University of Munich, specializing in Machine Learning, Robotics, and High-Performance Computing. My academic and research interests are centered around Machine Learning, Causality, and tackling Distribution Shifts. Recently, I've been focusing on addressing Temporal Distribution Shifts in Tabular Data as part of the [TabPFN](https://github.com/automl/TabPFN) framework, contributing to the [Machine Learning Lab](https://ml.informatik.uni-freiburg.de/) at the University of Freiburg.
+
+I hold a Bachelor's degree in Computer Science from the University of Freiburg, where I graduated with a grade average of 1.2 (top 3%). My bachelor's thesis, "Drift-Resilient TabPFN – A Bayesian Approach for Distribution Shifts in Dynamic Environments" achieved a perfect grade and was published at NeurIPS 2024 the following year. During my studies, I broadened my perspective through an exchange semester at the University of Virginia, gaining a more global understanding of Computer Science.
+
+Before stepping into academia, I gained 7 years of experience as a Network Engineer as a Network Engineer at [SensoPart Industriesensorik GmbH](https://www.sensopart.com/en/). In this role, I led projects to enhance network performance, resilience, and security, including a comprehensive redesign of the company's global network infrastructure and the network integration of new international branches.
+
+Outside of work and study, I’m always up for exploring new cultures, diving into outdoor activities like scuba diving and snowboarding, or taking on a fresh challenge. Thanks for stopping by, and feel free to reach out if you’d like to connect!
