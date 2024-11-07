@@ -7,8 +7,8 @@ authors:
 - Noah Hollmann
 - Samuel Müller
 - Frank Hutter
-date: '2024-10-28'
-publishDate: '2024-10-28T19:27:43.401886Z'
+date: '2024-11-06'
+publishDate: '2024-11-06T19:27:43.401886Z'
 publication_types:
 - paper-conference
 publication: '*The Thirty-eighth Annual Conference on Neural Information Processing
@@ -36,5 +36,6 @@ abstract: "While most ML models expect independent and identically distributed d
 links:
 - name: URL
   url: https://openreview.net/forum?id=p3tSEFMwpG
+  url_pdf: https://openreview.net/pdf?id=p3tSEFMwpG
   featured: true
 ---
